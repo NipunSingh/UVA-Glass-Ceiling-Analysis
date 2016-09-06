@@ -9,7 +9,7 @@
 
 ## Results
    The algorithm found 1,106 female faculty memembers and 2,072 male faculty members. 77 of the 3,225 names were not able to be assigned a gender. The average salary for a female was $90,000 and $112,000 for a male. We ran a Mann-Whitney test in Minitab on the resulting data and found that the difference between male salaries and female salaries was statistically significant (p = ~0.00). 
-![alt text](https://github.com/NipunSingh/UVA-Glass-Ceiling-Analysis/blob/master/MannWhitneyResults.png "Mann Whtiney Results")
+![alt text](https://github.com/NipunSingh/UVA-Glass-Ceiling-Analysis/blob/master/MannWhitneyResults.png "Mann Whtiney Results" | width=500)
 
 Looking at the data by school, we found that females made significantly less in the School of Medicine and in the College of Arts and Sciences. There was no significant difference between the genders in the School of Engineering and Applied Sciences. Further work needs to be done in looking at salary differences after controlling for years of experience and job title.  
 
